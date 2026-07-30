@@ -25,7 +25,7 @@ O objetivo deste projeto é construir uma jornada prática e progressiva, partin
 
 | Fase | Título | Projetos Principais | Dias | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Sintaxe C#, CLI & LINQ** | CLI Logger & Engine de Validação Assíncrona | 001 - 015 | 🟡 Em andamento |
+| **01** | **Sintaxe C#, CLI & LINQ** | CLI Logger & Engine de Validação Assíncrona | 001 - 015 | ⚪ Não iniciado |
 | **02** | **APIs RESTful & EF Core** | API CRUD com EF Core & Auth JWT/Identity | 016 - 040 | ⚪ Não iniciado |
 | **03** | **Clean Architecture & Testes** | E-Commerce CQRS (MediatR) + Suíte de Testes (xUnit) | 041 - 065 | ⚪ Não iniciado |
 | **04** | **Mensageria & Real-time** | Worker Services (RabbitMQ/MassTransit) & SignalR + Redis | 066 - 085 | ⚪ Não iniciado |
