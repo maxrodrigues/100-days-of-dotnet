@@ -1,0 +1,15 @@
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\bin\Debug\net10.0\LogViewerCLI.exe
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\bin\Debug\net10.0\LogViewerCLI.deps.json
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\bin\Debug\net10.0\LogViewerCLI.runtimeconfig.json
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\bin\Debug\net10.0\LogViewerCLI.dll
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\bin\Debug\net10.0\LogViewerCLI.pdb
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.AssemblyInfoInputs.cache
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.AssemblyInfo.cs
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.csproj.CoreCompileInputs.cache
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.sourcelink.json
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.dll
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\refint\LogViewerCLI.dll
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.pdb
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\LogViewerCLI.genruntimeconfig.cache
+C:\Users\maxuel.rodrigues\workspace\100-days-of-dotnet\phaseo1-fundamentals\LogViewerCLI\obj\Debug\net10.0\ref\LogViewerCLI.dll
