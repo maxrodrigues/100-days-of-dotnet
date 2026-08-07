@@ -25,7 +25,7 @@ O objetivo deste projeto é construir uma jornada prática e progressiva, partin
 
 | Fase | Título | Projetos Principais | Dias | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Sintaxe C#, CLI & LINQ** | CLI Logger & Engine de Validação Assíncrona | 001 - 015 | ⚪ Não iniciado |
+| **01** | **Sintaxe C#, CLI & LINQ** | CLI Logger & Engine de Validação Assíncrona | 001 - 015 | 🟡 Em andamento |
 | **02** | **APIs RESTful & EF Core** | API CRUD com EF Core & Auth JWT/Identity | 016 - 040 | ⚪ Não iniciado |
 | **03** | **Clean Architecture & Testes** | E-Commerce CQRS (MediatR) + Suíte de Testes (xUnit) | 041 - 065 | ⚪ Não iniciado |
 | **04** | **Mensageria & Real-time** | Worker Services (RabbitMQ/MassTransit) & SignalR + Redis | 066 - 085 | ⚪ Não iniciado |
@@ -50,8 +50,8 @@ O objetivo deste projeto é construir uma jornada prática e progressiva, partin
 <summary><b>Fase 1: Sintaxe C#, CLI e LINQ (Dias 001 – 015)</b></summary>
 
 ### Day 001: [Título curto do que fez no dia]
-- **Aprendizado:** Setup do ambiente, criação da estrutura da CLI e primeiros comandos `System.IO`.
-- **Commit/Código:** [`src/Phase01-CLI/Project01-LogViewer`](./src/Phase01-CLI)
+- **Aprendizado:** Setup do ambiente, criação da estrutura da CLI e primeiros comandos
+- **Commit/Código:** [`phaseo1-fundamentals/LogViewerCLI`](./phaseo1-fundamentals/)
 - **Anotações:** Aprendi sobre a inicialização de projetos via `.NET CLI` e declaração de *top-level statements*.
 
 ### Day 002: [Título]
