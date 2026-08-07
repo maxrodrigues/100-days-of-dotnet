@@ -51,7 +51,7 @@ O objetivo deste projeto é construir uma jornada prática e progressiva, partin
 
 ### Day 001: [Título curto do que fez no dia]
 - **Aprendizado:** Setup do ambiente, criação da estrutura da CLI e primeiros comandos
-- **Commit/Código:** [`phaseo1-fundamentals/LogViewerCLI`](.phaseo1-fundamentals/)
+- **Commit/Código:** [`phaseo1-fundamentals/LogViewerCLI`](./phaseo1-fundamentals/)
 - **Anotações:** Aprendi sobre a inicialização de projetos via `.NET CLI` e declaração de *top-level statements*.
 
 ### Day 002: [Título]
