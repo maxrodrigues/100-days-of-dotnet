@@ -3,7 +3,7 @@
 string logFilePath = "app_test.log";
 
 Console.WriteLine("==========================================");
-Console.WriteLine(" 🚀 LogViewer CLI - Day 01 Started");
+Console.WriteLine(" 🚀 LogViewer CLI - Day 02 ");
 Console.WriteLine("==========================================");
 
 // 1. Gerando um arquivo de log usando StreamWriter
@@ -33,7 +33,7 @@ if (File.Exists(logFilePath))
     int totalLines = 0;
     int errorCount = 0;
 
-    // Processamento linha por linha sem carregar todo o arquivo na RAM
+    // Processamento linha por linha sem carregar o arquivo na RAM
     while ((currentLine = await reader.ReadLineAsync()) != null)
     {
         totalLines++;
